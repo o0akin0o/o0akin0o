@@ -40,6 +40,6 @@ Expert in optimizing server environments, enterprise middleware, hypervisors, an
 
 ### 📫 Connect with me
 
-- 📍 Location: **Riihimäki, Finland** 🇫🇮 *(Open to local, hybrid, or on-site datacenter shifts)*
+- 📍 Location: **Riihimäki, Finland** 🇫🇮 *(Open to relocate, local, hybrid, or on-site datacenter shifts)*
 - 💼 LinkedIn: (https://www.linkedin.com/in/lenhatminhquan/)
 - 📧 Email: lenhatminhquan@gmail.com
